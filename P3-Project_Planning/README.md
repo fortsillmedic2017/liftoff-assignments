@@ -17,6 +17,6 @@ For this assignment, you'll create some initial plans for your project.
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 [Trello Tracker "Dialysis Treatment Tracker"](https://trello.com/b/CmMR5Xck/dialysis-tracker)
 
-### Project Repo Link
+### 
 
-(Include a link to your project on GitHub)
+[Dialysis Tracker](https://github.com/fortsillmedic2017/Dialysis-Tracker.git)
