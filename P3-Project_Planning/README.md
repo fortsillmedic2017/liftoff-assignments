@@ -19,4 +19,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### 
 
-[Dialysis Tracker](https://github.com/fortsillmedic2017/Dialysis-Tracker.git)
+(Include a link to your project on GitHub)
+https://github.com/fortsillmedic2017/Dialysis-Tracker.git
+
