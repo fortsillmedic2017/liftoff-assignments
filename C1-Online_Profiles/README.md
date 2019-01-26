@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LInkedIN URL](https://www.linkedin.com/in/davis-hilton2017/)
 
 ### Resume
-[Resume URL](https://docs.google.com/document/d/1btDu0mjGtGyCSd6s3uID1tSqKy9myIpb6-8FouJOlY8/edit?ts=5c4b95c7)
+[Resume URL](https://docs.google.com/document/d/1btDu0mjGtGyCSd6s3uID1tSqKy9myIpb6-8FouJOlY8/edit?ts=5c4b95c7#heading=h.44sinio)
