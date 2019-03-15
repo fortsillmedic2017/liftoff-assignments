@@ -8,4 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 
-[Presentation PDF](file:///C:/Users/OWNER/Downloads/Dialysis%20Patient%20Tracker%20(1).pdf)
+[Presentation PDF](https://docs.google.com/presentation/d/1tKZfkyelXP8WcaWCunFf-bwb3-Q0_sm-TqCydyaV0TU/edit?usp=sharing)
