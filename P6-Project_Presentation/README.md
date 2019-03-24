@@ -12,4 +12,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 
 ### Live On-line
-[LaunchCode Project Capstone](https://dialysispatienttracker.azurewebsites.net/)
+[LaunchCode Project Capstone](https://dialysispatienttracker2.azurewebsites.net)
